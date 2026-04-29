@@ -153,6 +153,10 @@ Sync systems (client ↔ server)
 ## Demo
 [![Watch the video](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/IndexedDB.png)](https://youtu.be/ukLVApnLPqg)
 
+*Click on the image above to watch the demonstration.*
+
+---
+
 ## Architecture Insight
 ```text
 Server = source of truth
