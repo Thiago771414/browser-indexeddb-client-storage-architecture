@@ -151,8 +151,7 @@ Large client-side datasets
 Sync systems (client ↔ server)
 
 ## Demo
-## Layout API Indexed DB ![Mobile 1](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/IndexedDB.png) 
-## Vídeo de demonstração [[Vídeo de demonstração]](https://youtu.be/ukLVApnLPqg)
+[![Assista ao vídeo](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/IndexedDB.png)](https://youtu.be/ukLVApnLPqg)
 
 ## Architecture Insight
 ```text
