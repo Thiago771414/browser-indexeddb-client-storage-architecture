@@ -113,12 +113,14 @@ store.add({
 });
 ```
 ## Query by Index
+```js
 const index = store.index("email");
 const request = index.get("thiago@email.com");
 
 request.onsuccess = () => {
   console.log(request.result);
 };
+```
 
 ## IndexedDB vs LocalStorage
 
